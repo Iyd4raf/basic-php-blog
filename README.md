@@ -1,2 +1,2 @@
-# basic-php-blog
+# simple-php-blog
 basic php blog crud app
