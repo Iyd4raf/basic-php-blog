@@ -17,7 +17,6 @@ A simple blog site with basic CRUD and search feature.
 <li>HTML</li>
 <li>Material Design Bootstrap 4</li> 
 <li>PHP7</li>
-<li>MySQLi</li> 
 <li>MySQL</li>
 </ul>
 
