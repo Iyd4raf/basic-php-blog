@@ -7,7 +7,8 @@ A simple blog site with basic CRUD and search feature.
 
 <ul>
   <li>Add, update and delete posts</li>
-  <li>search posts</li>
+  <li>View posts</li>
+  <li>Search posts</li>
 </ul>
 
 
