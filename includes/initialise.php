@@ -2,6 +2,7 @@
 
 $sitename = 'Blog';
 
+//project_name must match name of the root folder of this project on your machine
 $project_name = 'basic-php-blog';
 $project_name_length = strlen($project_name);
 
