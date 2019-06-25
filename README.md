@@ -26,7 +26,7 @@ A simple blog site with basic CRUD and search feature.
 
 <p>Run sql to create the database</p>
 <p>Alter database connection information if needed in config file</p>
-<p>The root folder name must match project_name in config file</p>
+<p>The root folder name must match project_name variable in config file</p>
 
 
 <h3>Programming Features</h3>

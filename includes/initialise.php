@@ -2,7 +2,7 @@
 
 $sitename = 'Blog';
 
-$project_name = 'basic-php-blog-master';
+$project_name = 'basic-php-blog';
 $project_name_length = strlen($project_name);
 
 $site_root_end = strpos($_SERVER['SCRIPT_NAME'], $project_name) + $project_name_length;
