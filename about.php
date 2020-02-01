@@ -17,5 +17,4 @@
     </div>
   
 
-
 <?php require_once(LAYOUT_PATH.'/footer.php'); ?>
